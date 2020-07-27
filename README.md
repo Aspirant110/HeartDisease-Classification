@@ -1,0 +1,2 @@
+# HeartDisease-Classification
+Here i make the use of different machine learning Algorithms to predict Heart disease in person by applying those algorithms on data of symptoms or events a particular person facing I use different python libraries in this project like Pandas, Seaborn, Numpy, Sklearn and Machine learning Algorithms such as LabelEncoder ,Logistic Regression, K-Nearest Neighbour (KNN) Classification, Support Vector Machine (SVM) Algorithm, Naïve Bayes Algorithm, Decision Tree Algorithm , Random Forest Classification and Perceptron Classification
